@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519842953092",
+    "firebase_url": "https://smartboatcontroller-default-rtdb.firebaseio.com",
+    "project_id": "smartboatcontroller",
+    "storage_bucket": "smartboatcontroller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519842953092:android:59b73a31e640b8b0038fd1",
+        "android_client_info": {
+          "package_name": "com.example.smartboatcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519842953092-bb8fd4j74sqka9g78iq8enftm4ov3d2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYropYqbosDlY6dAclclXoLPeu77GLYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519842953092-bb8fd4j74sqka9g78iq8enftm4ov3d2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
